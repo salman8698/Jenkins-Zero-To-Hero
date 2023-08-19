@@ -15,7 +15,7 @@ spec:
         app: spring-boot-app
     spec:
       containers:
-      - name: spring-boot-app
+      - name: ngninxs
         image: nginx
         ports:
         - containerPort: 8080
